@@ -1,7 +1,7 @@
-<?php 
+<?php
 $ut = 45;
 
-class Fgrhf{
+class TestClass{
 	 public $goitom;
 
 	 public function getRgffg(){
